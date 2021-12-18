@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3ca2afc-dbfa-49f2-937d-1f4bfc7262b4": {
+      "ProjectGuid": "e3ca2afc-dbfa-49f2-937d-1f4bfc7262b4",
+      "DisplayName": "ShadowCompressor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
